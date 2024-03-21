@@ -4,17 +4,7 @@
 This project tackles the classic Kaggle challenge of predicting passenger survival on the ill-fated Titanic voyage. The goal is to develop machine learning models capable of determining which factors were most influential in determining who survived the disaster.
 
 ***Data**
-The project uses the Titanic dataset commonly found on Kaggle (https://www.kaggle.com/competitions/titanic). This dataset includes features such as:
-Passenger ID
-Survival Status (0 = Deceased, 1 = Survived)
-Passenger Class (1st, 2nd, 3rd)
-Sex
-Age
-Number of Siblings/Spouses Aboard
-Number of Parents/Children Aboard
-Ticket Fare
-Cabin
-Port of Embarkation
+The project uses the Titanic dataset commonly found on Kaggle (https://www.kaggle.com/competitions/titanic). This dataset includes features such as: Passenger ID, Survival Status (0 = Deceased, 1 = Survived), Passenger Class (1st, 2nd, 3rd), Sex, Age, Number of Siblings/Spouses Aboard, Number of Parents/Children Aboard, Ticket Fare, Cabin, Port of Embarkation.
 
 **Methodology**
 Data Exploration and Analysis (EDA): Examining distributions, identifying missing values, and visualizing relationships between features.
